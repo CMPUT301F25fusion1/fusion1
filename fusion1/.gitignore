@@ -7,6 +7,13 @@
 /.idea/workspace.xml
 /.idea/navEditor.xml
 /.idea/assetWizardSettings.xml
+/.idea/.gitignore
+/.idea/caches/deviceStreaming.xml	
+/.idea/fusion1.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+
 .DS_Store
 /build
 /captures
